@@ -1,3 +1,8 @@
+> **Development has moved to [LyricBee — NetEase Lyrics for MusicBee](https://github.com/tonyzehs/LyricBee-NetEaseLyrics).**
+> Use the [successor's latest release](https://github.com/tonyzehs/LyricBee-NetEaseLyrics/releases/latest) for new installations and its [issue tracker](https://github.com/tonyzehs/LyricBee-NetEaseLyrics/issues) for support. This fork is preserved as a historical archive; existing tags and download links remain available.
+>
+> **开发已迁移至 [LyricBee](https://github.com/tonyzehs/LyricBee-NetEaseLyrics)。** 新安装及后续更新请使用新项目，本仓库保留历史版本和原下载链接。
+
 # NetEase Lyrics for MusicBee
 
 A lyrics retrieval plugin for [MusicBee](https://getmusicbee.com/) that downloads synchronized lyrics from NetEase Cloud Music (网易云音乐), with optional translation and pronunciation.
